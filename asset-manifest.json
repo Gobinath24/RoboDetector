@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/Gobinath24/RoboDetector/static/css/main.ccbc37e7.chunk.css",
-    "main.js": "/Gobinath24/RoboDetector/static/js/main.7e429033.chunk.js",
-    "main.js.map": "/Gobinath24/RoboDetector/static/js/main.7e429033.chunk.js.map",
-    "runtime-main.js": "/Gobinath24/RoboDetector/static/js/runtime-main.aaa16183.js",
-    "runtime-main.js.map": "/Gobinath24/RoboDetector/static/js/runtime-main.aaa16183.js.map",
-    "static/css/2.3c03f26f.chunk.css": "/Gobinath24/RoboDetector/static/css/2.3c03f26f.chunk.css",
-    "static/js/2.f690e5d6.chunk.js": "/Gobinath24/RoboDetector/static/js/2.f690e5d6.chunk.js",
-    "static/js/2.f690e5d6.chunk.js.map": "/Gobinath24/RoboDetector/static/js/2.f690e5d6.chunk.js.map",
-    "index.html": "/Gobinath24/RoboDetector/index.html",
-    "precache-manifest.51f35f57a11cac0dd0a9d0fca56173f2.js": "/Gobinath24/RoboDetector/precache-manifest.51f35f57a11cac0dd0a9d0fca56173f2.js",
-    "service-worker.js": "/Gobinath24/RoboDetector/service-worker.js",
-    "static/css/2.3c03f26f.chunk.css.map": "/Gobinath24/RoboDetector/static/css/2.3c03f26f.chunk.css.map",
-    "static/css/main.ccbc37e7.chunk.css.map": "/Gobinath24/RoboDetector/static/css/main.ccbc37e7.chunk.css.map",
-    "static/js/2.f690e5d6.chunk.js.LICENSE.txt": "/Gobinath24/RoboDetector/static/js/2.f690e5d6.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/Gobinath24/RoboDetector/static/media/SEGA.12a3db8b.woff"
+    "main.css": "/RoboDetector/static/css/main.8eca1d68.chunk.css",
+    "main.js": "/RoboDetector/static/js/main.c68493c0.chunk.js",
+    "main.js.map": "/RoboDetector/static/js/main.c68493c0.chunk.js.map",
+    "runtime-main.js": "/RoboDetector/static/js/runtime-main.83c6b2ba.js",
+    "runtime-main.js.map": "/RoboDetector/static/js/runtime-main.83c6b2ba.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/RoboDetector/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.f690e5d6.chunk.js": "/RoboDetector/static/js/2.f690e5d6.chunk.js",
+    "static/js/2.f690e5d6.chunk.js.map": "/RoboDetector/static/js/2.f690e5d6.chunk.js.map",
+    "index.html": "/RoboDetector/index.html",
+    "precache-manifest.4289198407ea21f492133c2c6c2109db.js": "/RoboDetector/precache-manifest.4289198407ea21f492133c2c6c2109db.js",
+    "service-worker.js": "/RoboDetector/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/RoboDetector/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.8eca1d68.chunk.css.map": "/RoboDetector/static/css/main.8eca1d68.chunk.css.map",
+    "static/js/2.f690e5d6.chunk.js.LICENSE.txt": "/RoboDetector/static/js/2.f690e5d6.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/RoboDetector/static/media/SEGA.12a3db8b.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.aaa16183.js",
+    "static/js/runtime-main.83c6b2ba.js",
     "static/css/2.3c03f26f.chunk.css",
     "static/js/2.f690e5d6.chunk.js",
-    "static/css/main.ccbc37e7.chunk.css",
-    "static/js/main.7e429033.chunk.js"
+    "static/css/main.8eca1d68.chunk.css",
+    "static/js/main.c68493c0.chunk.js"
   ]
 }
